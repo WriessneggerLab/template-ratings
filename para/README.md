@@ -1,10 +1,10 @@
-# Example Psychopy Paradigm
+# Subjective rating with a continuous scale
 
-In this README you may explain how your paradigm was made, what it does, and how to get it running for your experiment. For psychopy, the `data` folder contains the experiment logs, the `lists` folder contains the trial lists, and `res` any extra resources like images for your stimuli.
-
-## Training
-A show of visual queues for MI. Following  [1](#1)
+Using psychpy's continuous scale, the subject can respond with a slider to the SAM [[1](1)] scale. Images for this experiment are taken from the NAPS dataset [[2](2)].
+The images' name is included in the `img.csv` list. The original valence arousal mean and standard deviation are also kept in this list.
 
 # References
 
-[1]: Schwarz, A., Steyrl, D., & Müller-Putz, G. R. (2016, October). Brain-computer interface adaptation for an end user to compete in the Cybathlon. In 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 001803-001808). IEEE.
+[1]: Bradley, M. M., & Lang, P. J. (1994). Measuring emotion: the self-assessment manikin and the semantic differential. Journal of behavior therapy and experimental psychiatry, 25(1), 49-59.
+
+[2]: Marchewka, A., Żurawski, Ł., Jednoróg, K., & Grabowska, A. (2014). The Nencki Affective Picture System (NAPS): Introduction to a novel, standardized, wide-range, high-quality, realistic picture database. Behavior research methods, 46(2), 596-610.
