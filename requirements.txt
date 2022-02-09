@@ -1,0 +1,13 @@
+biosppy
+h5py
+jupyterlab
+matplotlib
+mne
+numpy
+pandas
+psychopy
+pyxdf
+rich
+scipy
+seaborn
+sklearn
