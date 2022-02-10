@@ -3,3 +3,6 @@ You may keep your research notes, links, references, and ideas here. The log can
 
 ## 2022-02-09
 Created template. Missing psyexp file.
+
+## 2022-02-10
+Add psychopy experiment for old psychopy version. Must update and test at the lab.
