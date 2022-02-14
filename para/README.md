@@ -1,7 +1,9 @@
 # Subjective rating with a continuous scale
 
 Using psychpy's continuous scale, the subject can respond with a slider to the SAM [[1](1)] scale. Images for this experiment are taken from the NAPS dataset [[2](2)].
-The images' name is included in the `img.csv` list. The original valence arousal mean and standard deviation are also kept in this list.
+The images' name is included in the `img.xlsx` list. The original valence arousal mean and standard deviation are also kept in this list.
+
+![flow](img/flow.png)
 
 # References
 
